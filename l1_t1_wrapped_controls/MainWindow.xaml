@@ -11,24 +11,24 @@
             <ColumnDefinition Width="2*"/>
             <ColumnDefinition Width="1*"/>
         </Grid.ColumnDefinitions>
-        <WrapPanel Grid.Column="0">
-            <Button Foreground="Navy">Navy</Button>
-            <Button Foreground="Blue">Blue</Button>
-            <Button Foreground="Aqua" Background="DarkGreen">Aqua</Button>
-            <Button Foreground="Teal">Teal</Button>
-            <Button Foreground="Olive">Olive</Button>
-            <Button Foreground="Green">Green</Button>
-            <Button Foreground="Lime" Background="Black">Lime</Button>
-            <Button Foreground="Yellow" Background="Blue">Yellow</Button>
-            <Button Foreground="Orange" Background="DarkCyan">Orange</Button>
-            <Button Foreground="Red">Red</Button>
-            <Button Foreground="Maroon">Maroon</Button>
-            <Button Foreground="Fuchsia">Fuchsia</Button>
-            <Button Foreground="Purple">Purple</Button>
-            <Button Foreground="Black">Black</Button>
-            <Button Foreground="Silver" Background="Black">Silver</Button>
-            <Button Foreground="Gray">Gray</Button>
-            <Button Foreground="White" Background="DarkOrchid">White</Button>
+        <WrapPanel Grid.Column="0" Margin="5,0,0,0">
+            <Button Foreground="Navy" Margin="5,0,0,0">Navy</Button>
+            <Button Foreground="Blue" Margin="5,0,0,0">Blue</Button>
+            <Button Foreground="Aqua" Background="DarkGreen" Margin="5,0,0,0">Aqua</Button>
+            <Button Foreground="Teal" Margin="5,0,0,0">Teal</Button>
+            <Button Foreground="Olive" Margin="5,0,0,0">Olive</Button>
+            <Button Foreground="Green" Margin="5,0,0,0">Green</Button>
+            <Button Foreground="Lime" Background="Black" Margin="5,0,0,0">Lime</Button>
+            <Button Foreground="Yellow" Background="Blue" Margin="5,0,0,0">Yellow</Button>
+            <Button Foreground="Orange" Background="DarkCyan" Margin="5,0,0,0">Orange</Button>
+            <Button Foreground="Red" Margin="5,0,0,0">Red</Button>
+            <Button Foreground="Maroon" Margin="5,0,0,0">Maroon</Button>
+            <Button Foreground="Fuchsia" Margin="5,0,0,0">Fuchsia</Button>
+            <Button Foreground="Purple" Margin="5,0,0,0">Purple</Button>
+            <Button Foreground="Black" Margin="5,0,0,0">Black</Button>
+            <Button Foreground="Silver" Background="Black" Margin="5,0,0,0">Silver</Button>
+            <Button Foreground="Gray" Margin="5,0,0,0">Gray</Button>
+            <Button Foreground="White" Background="DarkOrchid" Margin="5,0,0,0">White</Button>
         </WrapPanel>
 
     </Grid>
